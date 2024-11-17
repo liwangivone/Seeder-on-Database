@@ -18,8 +18,9 @@ class Journal extends Model
         'id',
         'title',
         'author',
-        'published_year',
         'publisher',
+        'published_year',
         'stock'
     ];
 }
+
